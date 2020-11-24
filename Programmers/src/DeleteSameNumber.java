@@ -31,6 +31,6 @@ public class DeleteSameNumber {
 			}
 		}
 		System.out.println(Arrays.toString(answer));
-		return answer;
+		return answer;asd
 	}
 }
