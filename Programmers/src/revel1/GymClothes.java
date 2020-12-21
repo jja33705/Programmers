@@ -1,3 +1,4 @@
+package revel1;
 public class GymClothes {
 
 	public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package revel1;
 public class CenterCharacter {
 
 	public static void main(String[] args) {
