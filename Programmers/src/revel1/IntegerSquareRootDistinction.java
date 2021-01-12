@@ -6,6 +6,7 @@ public class IntegerSquareRootDistinction {
 		System.out.println(solution(144));
 		System.out.println(solution(169));
 		System.out.println(solution(2341413));
+		System.out.println(solution(369));
 	}
 	public static long solution(long n) {
         if(((long)Math.sqrt((double)n))*((long)Math.sqrt((double)n))==n){
